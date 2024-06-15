@@ -27,3 +27,6 @@ env/
 pixi.toml
 pixi.lock
 *.egg-info
+
+# outputs
+part4/output
