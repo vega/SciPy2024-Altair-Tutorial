@@ -1,0 +1,29 @@
+# VSCode
+.vscode
+
+# PyCharm
+.idea
+
+# MacOS
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Environment files
+.env
+.env.*
+
+# pixi environments
+.pixi
+pixi.toml
+pixi.lock
+*.egg-info
