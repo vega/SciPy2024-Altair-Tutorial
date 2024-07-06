@@ -16,6 +16,8 @@ Or, to install from conda-forge:
 conda install -c conda-forge altair-all vega_datasets anywidget
 ```
 
+During the live tutorial at SciPy 2024, participants are encouraged to use the Nebari JupyterHub distribution (https://scipy.quansight.dev) with the `vega-altair-tutorial` conda environment, which has these dependencies pre-installed.
+
 ## Outline
 This tutorial is divided into four parts, each focusing on different aspects of data visualization using Vega-Altair. Below is an outline of the tutorial along with links to each notebook.
 
@@ -26,6 +28,7 @@ This tutorial is divided into four parts, each focusing on different aspects of 
   - Encoding data dimensions
   - Customizing chart appearance
 - **Notebook**: [Part 1 - Data Types, Graphical Marks, and Visual Encoding Channels](part1/Part%201%20-%20Data%20Types%2C%20Graphical%20Marks%2C%20and%20Visual%20Encoding%20Channels.ipynb)
+  - With all inline code: [Completed - Part 1 - Data Types, Graphical Marks, and Visual Encoding Channels](part1/completed/Completed%20-%20Part%201%20-%20Data%20Types%2C%20Graphical%20Marks%2C%20and%20Visual%20Encoding%20Channels.ipynb)
 - **Exercises**: [Part 1 - Exercises](part1/Part%201%20-%20Exercises.ipynb)
 
 ### Part 2: Data Transformation
@@ -40,8 +43,8 @@ This tutorial is divided into four parts, each focusing on different aspects of 
 ### Part 3: Interactivity
 - **Objective**: Learn how to add interactivity to charts.
 - **Key Topics**:
-  - Basic Interactive features (tooltips and pan/zoom)
-  - Selections parameters
+  - Basic interactive features (tooltips and pan/zoom)
+  - Selection parameters
   - Conditional encodings and filtering
 - **Notebook**: [Part 3 - Interactivity](part3/Part%203%20-%20Interactivity.ipynb)
 - **Exercises**: [Part 3 - Exercises](part3/Part%203%20-%20Exercises.ipynb)
