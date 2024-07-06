@@ -3,6 +3,8 @@ This repository contains resources for the Vega-Altair tutorial for [SciPy 2024]
 
 See the [tutorial description](https://cfp.scipy.org/2024/talk/CLKG8E/) for more information.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vega/SciPy2024-Altair-Tutorial/HEAD)
+
 ## Dependencies
 The only Python dependency of this tutorial is the `altair` package with the `all` extras enabled.
 
