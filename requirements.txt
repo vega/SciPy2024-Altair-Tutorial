@@ -1,1 +1,1 @@
-altair[all]==5.3
+altair[all]==5.5
